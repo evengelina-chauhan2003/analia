@@ -1,0 +1,7 @@
+body{background-color: pink;}
+h1{color: #A625B1; font-family: Helvetica; font-size: 40pt;}
+img{border-style: dotted; border-width: 10pt; border color: #EE7BF7;}
+p{color: #703477; font-family: Helvetica; font-size: 14pt;}
+a{color: #9823A4; font-family: Helvetica; font-size: 14pt; text-decoration: none;}
+a:hover{color: #A4235A}
+a:visited{color: #80068C}
